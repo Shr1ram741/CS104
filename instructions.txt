@@ -1,0 +1,15 @@
+This is a turn-based 1v1 game in which the player's goal is to destroy all the blocks of his opponents. Each player is allowed to use one Angry Bird per turn. The player who first destroys the opponent's entire fortress wins.
+
+Launching the Angry Bird:
+Drag back with the mouse and release to launch the Angry Bird.
+
+The Blocks:
+Each block has an initial health of 100. Each block is affected differently by each of the Angry Birds. When a block's health reaches 0, it disappears.
+
+The Angry Birds:
+There are four types of Angry Birds: Red, Chuck, Blue, Bomb.
+Each Angry Bird has a different effect on different blocks they collide with -
+    Red: Does uniform damage to all kinds of blocks.
+    Chuck: Does more damage to Wood blocks and lesser damage to other blocks.
+    Blue: Does more damage to Ice blocks and lesser damage to other blocks.
+    Bomb:oes more damage to Stone blocks and lesser damage to other blocks.
